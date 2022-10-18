@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ANRL/.idea/ANRL.iml" filepath="$PROJECT_DIR$/../ANRL/.idea/ANRL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BiANE 二部图属性网络嵌入/.idea/BiANE 二部图属性网络嵌入.iml" filepath="$PROJECT_DIR$/../BiANE 二部图属性网络嵌入/.idea/BiANE 二部图属性网络嵌入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GATNE 属性多路异构网络.iml" filepath="$PROJECT_DIR$/.idea/GATNE 属性多路异构网络.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenANE 分布式网络嵌入/.idea/OpenANE 分布式网络嵌入.iml" filepath="$PROJECT_DIR$/../OpenANE 分布式网络嵌入/.idea/OpenANE 分布式网络嵌入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenNE-master/.idea/OpenNE-master.iml" filepath="$PROJECT_DIR$/../OpenNE-master/.idea/OpenNE-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../分类器/.idea/分类器.iml" filepath="$PROJECT_DIR$/../分类器/.idea/分类器.iml" />
+    </modules>
+  </component>
+</project>
