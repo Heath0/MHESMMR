@@ -1,2 +1,2 @@
 # MHESMMR
-Source code and dataset for paper "BNEMDI: a novel multiple features integrated model for miRNA-drug interaction prediction"
+Source code and dataset for paper "Multi-Layer Heterogeneous Network Embedding for Predicting the Regulation of miRNAs Expression by Small Molecules"
